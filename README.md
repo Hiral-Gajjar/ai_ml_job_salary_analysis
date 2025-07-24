@@ -28,7 +28,8 @@ To analyze global salary trends in data-focused job roles using real-world job d
 
 AI ML Job Salaries - EDA Dashboard
 
-<img width="1424" height="799" alt="AI_ML_Salaries_dashboard" src="https://github.com/user-attachments/assets/51dd664b-c3d0-4708-8f5f-027f02eeca7f" />
+<img width="1423" height="799" alt="ai_ml_job_salaries_dashboard" src="https://github.com/user-attachments/assets/ea18dc60-7ebb-4a90-a2a1-c20fe0070892" />
+
 
 
 
