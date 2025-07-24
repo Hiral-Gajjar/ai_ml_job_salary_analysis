@@ -1,6 +1,7 @@
 **AI/ML Job Salary Analysis:**
 
 Explore how compensation in AI/ML and data-related roles varies across experience levels, countries, remote work setups and company sizes.
+powerbi
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
         
