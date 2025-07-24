@@ -24,6 +24,12 @@ To analyze global salary trends in data-focused job roles using real-world job d
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**Dashboard Overview**
+[AI ML Job Salaries - EDA Dashboard](./<img width="1424" height="799" alt="AI_ML_Salaries_dashboard" src="https://github.com/user-attachments/assets/03f9398d-0791-423a-b29d-2406f7ab11aa" />)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **Key Insights:**
 
 ~ **Location Matters** : US Based companies pays significantly more for AI/ML roles, followed by Canada and Europe.
