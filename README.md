@@ -1,17 +1,17 @@
-**AI/ML Job Salary Analysis:**
+## AI/ML Job Salary Analysis:
 
 Explore how compensation in AI/ML and data-related roles varies across experience levels, countries, remote work setups and company sizes.
 powerbi
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
         
-**Objective:**
+## Objective:
 
 To analyze global salary trends in data-focused job roles using real-world job data. The goal is to uncover actionable insights about job demand, high-paying roles, hiring patterns, and work-type preferences. This project combines both Python-based EDA and Power BI visualization for storytelling.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Tools Used:**
+## Tools Used:
 
 
 ~ Python (Jupyter Notebook)
@@ -25,7 +25,7 @@ To analyze global salary trends in data-focused job roles using real-world job d
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Dashboard Overview**
+## Dashboard Overview
 
 AI ML Job Salaries - EDA Dashboard
 
@@ -37,7 +37,7 @@ AI ML Job Salaries - EDA Dashboard
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Key Insights:**
+## Key Insights:
 
 ~ **Location Matters** : US Based companies pays significantly more for AI/ML roles, followed by Canada and Europe.
 
