@@ -1,15 +1,13 @@
 ## AI/ML Job Salary Analysis:
 
 Explore how compensation in AI/ML and data-related roles varies across experience levels, countries, remote work setups and company sizes.
-powerbi
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-        
+
+
 ## Objective:
 
 To analyze global salary trends in data-focused job roles using real-world job data. The goal is to uncover actionable insights about job demand, high-paying roles, hiring patterns, and work-type preferences. This project combines both Python-based EDA and Power BI visualization for storytelling.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Tools Used:
 
@@ -19,13 +17,19 @@ To analyze global salary trends in data-focused job roles using real-world job d
 - Seaborn
 - Matplotlib
 
-~ Power BI
+~ Power BI (Interactive Dashboard)
 
-~ Dataset: AI/ML Job Salaries (Kaggle-style Dataset)
+~ Dataset: AI/ML Job Salaries (Kaggle-style)
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Dashboard Overview
+
+**Sections Covered:**
+1. Salary by Work, Experience and Job-Title.
+2. Year-wise Trend of salary by experience level.
+3. Most Common Job Title by Pay and Volume.
+4. Top Countries paying highest average salary.
+5. Demand vs Compensation Visualization.
 
 AI ML Job Salaries - EDA Dashboard
 
@@ -35,7 +39,7 @@ AI ML Job Salaries - EDA Dashboard
 
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## Key Insights:
 
@@ -52,3 +56,11 @@ AI ML Job Salaries - EDA Dashboard
 ~ **Cross-border hiring is Limited**: Hiring Within borders is preferred due to:
     - local regulations, payroll ease or in-office expectations. 
     - avoid barriers such as time zones, communications or legal hurdles.
+
+
+
+
+## Strategic Takeaways:
+- Job Seekers should look out for jobs in US-based companies or data-centric positions for better exposure and pay.
+- Medium-sized companies should continue leveraging flexibility to attract AI talent.
+- Cross-border hiring friction needs to be reduced to attract global talent. 
